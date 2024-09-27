@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsavosev.github.io/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/app/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/assets/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/css/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/data/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/includes/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/item/sitemap.nsavosev.gz
+Sitemap: https://nsavosev.github.io/src/sitemap.nsavosev.gz
